@@ -1,0 +1,23 @@
+body{
+  height: 100vh;
+  background: linear-gradient(-45deg,#EE7752, #E73C7E, #23A6D5, #23D5AB);
+  animation: gradient 15s ease infinite;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 2.5%;
+
+}
+h1, h3{
+  color: #66BFBF;
+}
+.circular{
+  border-radius: 100%;
+}
+.profile{
+  border-radius: 100%;
+  width: 70%;
+}
